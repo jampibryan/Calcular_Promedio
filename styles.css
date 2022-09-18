@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  background: #9ddf60;
+}
+.contain {
+  border-radius: 20px;
+  border: 3px solid black;
+  width: 25%;
+  margin: 80px auto;
+  background-color: #c4eeeebb;
+}
+.titulo {
+  font-size: 2.3rem;
+  text-align: center;
+  margin: 1rem;
+  padding: 0.5rem;
+}
+.form_group {
+  margin: 1.5rem 0;
+}
+.textos {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.5rem;
+  margin-left: 15px;
+}
+.lbl_promedio {
+  padding: 0.5rem 0.5rem;
+  margin-left: 18px;
+}
+.cajas {
+  width: 25%;
+  text-align: center;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  padding: 0.5rem 2rem;
+  background-color: #62c9c3;
+  border: none;
+  margin-left: 15px;
+}
+.cajas:hover,
+.btn:hover {
+  background: #79bf59cf;
+}
+.btn {
+  margin: 1.5rem 0 1.5rem 6%;
+  font-size: 1.3rem;
+  width: 40%;
+  text-align: center;
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+  background-color: #6bc741a7;
+  border: none;
+}
